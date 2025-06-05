@@ -45,6 +45,7 @@ Sign up and obtain your API key from [https://groq.com](https://groq.com).
 ### 3. Select required references
 - Select Tools.
 - Select References.
+  
 ![references to select](references.jpg)
 
 
