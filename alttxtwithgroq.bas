@@ -74,7 +74,7 @@ Sub GenerateAltTextForImagesWithGroq()
     startTime = Timer
     
     ' Get API credentials
-    groqApiKey = "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"
+    groqApiKey = "your groq api key"
     groqModel = "meta-llama/llama-4-scout-17b-16e-instruct"
     
     Set doc = ActiveDocument
