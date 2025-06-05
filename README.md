@@ -42,12 +42,18 @@ Sign up and obtain your API key from [https://groq.com](https://groq.com).
 - Open Microsoft Word.
 - Press `ALT + F11` to open the VBA editor.
 
-### 3. Add the Macro Code
+### 3. Select required references
+- Select Tools.
+- Select References.
+![references to select](references.jpg])
+
+
+### 4. Add the Macro Code
 In the VBA editor:
 - Insert a new module (`Insert > Module`)
 - Paste the macro code from the file `AltTextMacro.bas` (see below for snippet)
 
-### 4. Set Your API Key
+### 5. Set Your API Key
 Replace the placeholder `YOUR_GROQ_API_KEY` in the code with your actual Groq API key.
 
 ---
